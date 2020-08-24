@@ -30,7 +30,7 @@ export default class CreateOrdersProducts1598000513538
             default: 'now()',
           },
           {
-            name: 'update_at',
+            name: 'updated_at',
             type: 'timestamp',
             default: 'now()',
           },
